@@ -34,10 +34,10 @@ def split_pgn_into_chunks(input_file_path, output_folder, chunk_size_mb=200):
     print(f"Last chunk {chunk_number} saved to {current_chunk_path}")
 
 # Specify the path to your input PGN file
-input_pgn_file = "C:\\Users\\manas\\Coding Playground\\PythonP\\PGN_splitter\\lichess_db_standard_rated_2016-02_copy.pgn"
+input_pgn_file = "Path\\to\\file"
 
 # Specify the folder where you want to save the chunks
-output_folder = "C:\\Users\\manas\\Coding Playground\\PythonP\\PGN_splitter\\PGN_Chunks"
+output_folder = "Path\\to\\output\\folder"
 
 # Specify the desired chunk size in MB
 chunk_size_mb = 200
