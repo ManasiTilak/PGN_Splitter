@@ -21,3 +21,7 @@ This Python script allows you to split a large PGN (Portable Game Notation) ches
 
 ```bash
 python pgn_splitter.py --input-file your_large_file.pgn --output-folder output_chunks --chunk-size-mb 200
+```
+## Complete Explanation
+
+The complete project details and explanation can be found  **[here](https://codingaunty.com/python-project-pgn-file-splitter/)**.
